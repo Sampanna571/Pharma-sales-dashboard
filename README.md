@@ -6,7 +6,6 @@ This project analyzes pharmaceutical sales data using Python for exploratory dat
 ## Objectives
 - Analyze sales trends and performance
 - Identify top-performing products
-- Compare regional sales
 - Build an interactive dashboard for business insights
 
 ## Technologies Used
